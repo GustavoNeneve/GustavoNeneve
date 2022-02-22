@@ -20,10 +20,11 @@ color background: #0D1117
 </div>
       
   ##
-  
-  ##
 <div align="center">
+<!--
 <img src="https://img.shields.io/badge/Social%20Media:-0D1117?style=for-the-badge&logo="height="90"/> 
+-->
+  <h1> Social Media </h1>
 
   ##
 <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank"><img align ="center" height= "60" src="https://img.shields.io/badge/LinkedIn-0077B5?style=&logo=linkedin&logoColor=white" target="_blank"></a>
