@@ -12,11 +12,9 @@ color background: #0D1117
       
   ##
   
-  <div align ="center">
-  <h1> Skills </h1>
-  </div>
+
  <div align = "center">
-  
+  <h1> Skills </h1>
   <a href="https://github.com/GustavoNeneve">
     <img align="center"height="60" src="https://img.shields.io/badge/Unity-100000?style=&logo=unity&logoColor=white"/>
     <img align="center"height="60" src ="https://img.shields.io/badge/C%23-239120?style=&logo=c-sharp&logoColor=white"/></a>
