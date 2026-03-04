@@ -27,7 +27,7 @@
 </div>
 
 ### 📊 GitHub Highlights
-<div align="center">
+<div align="center" style="display:flex; flex-direction:column; align-items:center; gap:10px;">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoNeneve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeneve&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
   <img height="180" src="https://streak-stats.demolab.com?user=GustavoNeneve&theme=github-dark&hide_border=false" alt="Contribution Streak" />
