@@ -28,11 +28,11 @@
 
 ### 📊 GitHub Highlights
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoNeneve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=GustavoNeneve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeneve&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
+  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeneve&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
   <br/>
-  <img height="180" src="https://streak-stats.demolab.com?user=GustavoNeneve&theme=github-dark&hide_border=false" alt="Contribution Streak" />
+  <img height="180" loading="lazy" src="https://streak-stats.demolab.com?user=GustavoNeneve&theme=github-dark&hide_border=false" alt="Contribution Streak" />
 </div>
 
 ### 🎮 Projetos & Links
