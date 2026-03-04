@@ -3,10 +3,10 @@
   <p><strong>Game Developer & Technical Artist</strong> crafting playful experiences with Unity, C#, and a focus on feel and polish.</p>
   <p>Based in Brazil · Open to collaborations</p>
   <div>
-    <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
-    <a href="https://ticoliro-productions.itch.io" target="_blank"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
-    <a href="https://www.instagram.com/gustavoneneve/" target="_blank"><img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://www.behance.net/gustavoneneve" target="_blank"><img height="30" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+    <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
+    <a href="https://www.instagram.com/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.behance.net/gustavoneneve" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio"/></a>
   </div>
 </div>
 
@@ -28,9 +28,9 @@
 
 ### 📊 GitHub Highlights
 <div align="center">
-  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=GustavoNeneve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeneve&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
-  <img height="180" loading="lazy" src="https://streak-stats.demolab.com?user=GustavoNeneve&theme=github-dark&hide_border=false" alt="Contribution Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoNeneve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeneve&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
+  <img height="180" src="https://streak-stats.demolab.com?user=GustavoNeneve&theme=github-dark&hide_border=false" alt="Contribution Streak" />
 </div>
 
 ### 🎮 Projetos & Links
@@ -41,6 +41,6 @@
 ### 🤝 Vamos trocar uma ideia?
 <div align="center">
   <a href="mailto:gustavoneneve@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/></a>
-  <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
-  <a href="https://ticoliro-productions.itch.io" target="_blank"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+  <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
 </div>
