@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm Gustavo Neneve 👋</h1>
-  <p><strong>Game Developer & Technical Artist</strong> crafting playful experiences with Unity, C#, and a focus on feel and polish.</p>
-  <p>Based in Brazil · Open to collaborations</p>
+  <h1>Olá, eu sou o Gustavo Neneve 👋</h1>
+  <p><strong>Game Developer & Technical Artist</strong> criando experiências divertidas com Unity, C# e foco em sensação e polimento.</p>
+  <p>Baseado no Brasil · Aberto a colaborações</p>
   <div>
     <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
     <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
@@ -36,9 +36,9 @@
 </div>
 
 ### 🎮 Projetos & Links
-- 🕹️ Portfólio jogável: [itch.io](https://ticoliro-productions.itch.io)
-- 🎨 Arte, motion e concepts: [Behance](https://www.behance.net/gustavoneneve)
-- 📸 Bastidores e devlogs: [Instagram](https://www.instagram.com/gustavoneneve/)
+- 🕹️ Portfólio jogável: <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer">itch.io</a>
+- 🎨 Arte, motion e concepts: <a href="https://www.behance.net/gustavoneneve" target="_blank" rel="noopener noreferrer">Behance</a>
+- 📸 Bastidores e devlogs: <a href="https://www.instagram.com/gustavoneneve/" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 ### 🤝 Vamos trocar uma ideia?
 <div align="center">
