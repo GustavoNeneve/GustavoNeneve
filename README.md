@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Gustavo Neneve 👋</h1>
-  <p><strong>Game Developer & Technical Artist</strong> criando experiências divertidas com Unity, C# e foco em sensação e polimento.</p>
+  <p><strong>Game Developer & Technical Artist</strong> criando experiências divertidas com Unity, C# e foco em sensação de jogo e polimento.</p>
   <p>Baseado no Brasil · Aberto a colaborações</p>
   <div>
     <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
