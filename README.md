@@ -36,13 +36,12 @@
 </div>
 
 ### 🎮 Projetos & Links
-- 🕹️ Portfólio jogável: <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer">itch.io</a>
-- 🎨 Arte, motion e concepts: <a href="https://www.behance.net/gustavoneneve" target="_blank" rel="noopener noreferrer">Behance</a>
-- 📸 Bastidores e devlogs: <a href="https://www.instagram.com/gustavoneneve/" target="_blank" rel="noopener noreferrer">Instagram</a>
+- 🕹️ Portfólio jogável: [itch.io](https://ticoliro-productions.itch.io)
+- 🎨 Arte, motion e concepts: [Behance](https://www.behance.net/gustavoneneve)
+- 📸 Bastidores e devlogs: [Instagram](https://www.instagram.com/gustavoneneve/)
 
 ### 🤝 Vamos trocar uma ideia?
 <div align="center">
-  <a href="mailto:gustavoneneve@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/></a>
   <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
   <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
 </div>
