@@ -1,45 +1,47 @@
-### Hi there 👋
-<!--
-color background: #0D1117
-
--->
-<body style="background-color: #0D1117">
-  <div align = "center">
-    <a href="https://github.com/GustavoNeneve">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoNeneve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeneve&layout=compact&langs_count=7&theme=github_dark"/>
+<div align="center">
+  <h1>Olá, eu sou o Gustavo Neneve 👋</h1>
+  <p><strong>Game Developer & Technical Artist</strong> criando experiências divertidas com Unity, C# e foco em sensação de jogo e polimento.</p>
+  <p>Baseado no Brasil · Aberto a colaborações</p>
+  <div>
+    <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+    <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
+    <a href="https://www.instagram.com/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.behance.net/gustavoneneve" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio"/></a>
   </div>
-
- <div align = "center">
-  <h1> Skills </h1>
-    <a href="https://github.com/GustavoNeneve">
-      <img align="center"height="60" src="https://img.shields.io/badge/Unity-100000?style=&logo=unity&logoColor=white"/>
-      <img align="center"height="60" src ="https://img.shields.io/badge/C%23-239120?style=&logo=c-sharp&logoColor=white"/>
-    </a>
 </div>
 
-  <div align="center">
-    <h1> Social Media </h1>
-    <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank"><img align ="center" height= "40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/gustavoneneve/" target="_blank"><img align ="center" height= "40" src="https://img.shields.io/badge/Instagram-%23E4405F?style=&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://ticoliro-productions.itch.io" target="_blank"><img align ="center" height= "40" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=&logo=itch.io&logoColor=white" target="_blank"></a>
-    <a href="https://www.behance.net/gustavoneneve" targe="_blank"> <img align ="center" height= "40" src="https://img.shields.io/badge/Behance-1769ff?style=&logo=behance&logoColor=white" target="_blank">
-    </a>
-  </div>
+---
 
-</body>
+### 🚀 Sobre mim
+- 🎮 Desenvolvedor de jogos apaixonado por prototipar rapidamente e dar vida a mecânicas divertidas.
+- 🛠️ Crio ferramentas para designers e cuido do polimento final (efeitos, UI/UX e feedback).
+- 📚 Explorando mais sobre shaders, level design e pipelines de produção indie.
 
-<!--
-**GustavoNeneve/GustavoNeneve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
+<div align="center">
+  <img height="40" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img height="40" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img height="40" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+</div>
 
-Here are some ideas to get you started:
+### 📊 GitHub Highlights
+<div align="center">
+  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=GustavoNeneve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeneve&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
+  <br/>
+  <img height="180" loading="lazy" src="https://streak-stats.demolab.com?user=GustavoNeneve&theme=github-dark&hide_border=false" alt="Contribution Streak" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Projetos & Links
+- 🕹️ Portfólio jogável: [itch.io](https://ticoliro-productions.itch.io)
+- 🎨 Arte, motion e concepts: [Behance](https://www.behance.net/gustavoneneve)
+- 📸 Bastidores e devlogs: [Instagram](https://www.instagram.com/gustavoneneve/)
+
+### 🤝 Vamos trocar uma ideia?
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+  <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
+</div>
