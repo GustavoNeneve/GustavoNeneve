@@ -1,4 +1,17 @@
 <div align="center">
+
+  <p>
+    <a href="#portuguese">🇧🇷 Português</a> &nbsp;|&nbsp;
+    <a href="#english">🇺🇸 English</a>
+  </p>
+
+</div>
+
+---
+
+<a name="portuguese"></a>
+
+<div align="center">
   <h1>Olá, eu sou o Gustavo Neneve 👋</h1>
   <p><strong>Game Developer & Technical Artist</strong> criando experiências divertidas com Unity, C# e foco em sensação de jogo e polimento.</p>
   <p>Baseado no Brasil · Aberto a colaborações</p>
@@ -10,30 +23,10 @@
   </div>
 </div>
 
----
-
 ### 🚀 Sobre mim
 - 🎮 Desenvolvedor de jogos apaixonado por prototipar rapidamente e dar vida a mecânicas divertidas.
 - 🛠️ Crio ferramentas para designers e cuido do polimento final (efeitos, UI/UX e feedback).
 - 📚 Explorando mais sobre shaders, level design e pipelines de produção indie.
-
-### 🛠️ Tech Stack
-<div align="center">
-  <img height="40" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img height="40" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img height="40" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-</div>
-
-### 📊 GitHub Highlights
-<div align="center">
-  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=GustavoNeneve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeneve&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
-  <br/>
-  <img height="180" loading="lazy" src="https://streak-stats.demolab.com?user=GustavoNeneve&theme=github-dark&hide_border=false" alt="Contribution Streak" />
-</div>
 
 ### 🎮 Projetos & Links
 - 🕹️ Portfólio jogável: [itch.io](https://ticoliro-productions.itch.io)
@@ -44,4 +37,54 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
   <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
+</div>
+
+---
+
+<a name="english"></a>
+
+<div align="center">
+  <h1>Hi, I'm Gustavo Neneve 👋</h1>
+  <p><strong>Game Developer & Technical Artist</strong> crafting fun experiences with Unity, C#, focusing on game feel and polish.</p>
+  <p>Based in Brazil · Open to collaborations</p>
+  <div>
+    <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+    <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
+    <a href="https://www.instagram.com/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.behance.net/gustavoneneve" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio"/></a>
+  </div>
+</div>
+
+### 🚀 About me
+- 🎮 Game developer passionate about rapid prototyping and bringing fun mechanics to life.
+- 🛠️ I build tools for designers and handle the final polish (effects, UI/UX, and feedback).
+- 📚 Currently diving deeper into shaders, level design, and indie production pipelines.
+
+### 🎮 Projects & Links
+- 🕹️ Playable portfolio: [itch.io](https://ticoliro-productions.itch.io)
+- 🎨 Art, motion & concepts: [Behance](https://www.behance.net/gustavoneneve)
+- 📸 Behind the scenes & devlogs: [Instagram](https://www.instagram.com/gustavoneneve/)
+
+### 🤝 Let's connect!
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavoneneve/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+  <a href="https://ticoliro-productions.itch.io" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Portfolio"/></a>
+</div>
+
+---
+
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://stats.pphat.top/icons?name=unity,csharp,dotnet,git,blender,visualstudio&effect=glow&size=large&columns=6" alt="Tech Stack Icons"/>
+</div>
+
+### 📊 GitHub Highlights
+<div align="center">
+  <img loading="lazy" src="https://stats.pphat.top/stats?username=GustavoNeneve&theme=tokyonight&avatar_mode=radar&data_border_style=frame&data_border_frame=out&show_icons=true" alt="GitHub Stats"/>
+  <br/><br/>
+  <img loading="lazy" src="https://stats.pphat.top/languages?username=GustavoNeneve&theme=tokyonight&show_info=true&info_outline=frame" alt="Top Languages"/>
+  <br/><br/>
+  <img loading="lazy" src="https://stats.pphat.top/graph?username=GustavoNeneve&animate=wave&theme=aurora" alt="Contribution Graph"/>
+  <br/><br/>
+  <img loading="lazy" src="https://stats.pphat.top/badges?username=GustavoNeneve&name=followers,repositories,total-stars,total-commits&theme=galaxy,aurora,ocean,galaxy&effect=wave&size=medium&column=4" alt="Profile Badges"/>
 </div>
