@@ -19,20 +19,18 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img height="40" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img height="40" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img height="40" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://stats.pphat.top/icons?name=unity,csharp,dotnet,git,blender,visualstudio&effect=glow&size=large&columns=6" alt="Tech Stack Icons"/>
 </div>
 
 ### 📊 GitHub Highlights
 <div align="center">
-  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=GustavoNeneve&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeneve&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
-  <br/>
-  <img height="180" loading="lazy" src="https://streak-stats.demolab.com?user=GustavoNeneve&theme=github-dark&hide_border=false" alt="Contribution Streak" />
+  <img loading="lazy" src="https://stats.pphat.top/stats?username=GustavoNeneve&theme=tokyonight&avatar_mode=radar&data_border_style=frame&data_border_frame=out&show_icons=true" alt="GitHub Stats"/>
+  <br/><br/>
+  <img loading="lazy" src="https://stats.pphat.top/languages?username=GustavoNeneve&theme=tokyonight&show_info=true&info_outline=frame" alt="Top Languages"/>
+  <br/><br/>
+  <img loading="lazy" src="https://stats.pphat.top/graph?username=GustavoNeneve&animate=wave&theme=aurora" alt="Contribution Graph"/>
+  <br/><br/>
+  <img loading="lazy" src="https://stats.pphat.top/badges?username=GustavoNeneve&name=followers,repositories,total-stars,total-commits&theme=galaxy,aurora,ocean,galaxy&effect=wave&size=medium&column=4" alt="Profile Badges"/>
 </div>
 
 ### 🎮 Projetos & Links
